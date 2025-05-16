@@ -88,4 +88,4 @@ node expense-tracker.js <command>
 
 * The application handles invalid IDs, missing descriptions, and invalid amounts gracefully.
 ## Project URL
-[Expense Tracker CLI Project on GitHub](https://github.com/sam-dar/Expense-tracker-CLI)
+[Project URL](https://github.com/sam-dar/Expense-tracker-CLI)
