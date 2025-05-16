@@ -1,0 +1,26 @@
+# Node.js
+
+node\_modules/
+
+# Dependency directories
+
+node\_modules/
+
+# Lock files
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log\*
+yarn-error.log\*
+
+# OS-specific files
+
+.DS\_Store
+Thumbs.db
